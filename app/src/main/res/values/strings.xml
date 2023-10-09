@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan 1</string>
+    <string name="btn_submit_old">Check Gen</string>
+    <string name="hint_input_old">Please input your birth year</string>
+</resources>

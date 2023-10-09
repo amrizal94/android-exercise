@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="length">Panjang</string>
+    <string name="hint_edt_length">Input value length</string>
+    <string name="hint_edt_width">Input value width</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="hint_edt_height">input value height</string>
+    <string name="btn_hitung_luas">Hitung</string>
+    <string name="tv_result">Hasil</string>
+</resources>

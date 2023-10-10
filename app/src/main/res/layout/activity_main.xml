@@ -13,6 +13,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/move_activity"
-        />
+        tools:ignore="VisualLintButtonSize" />
+
+    <Button
+        android:id="@+id/btn_move_activity_with_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_activity_with_data"
+        tools:ignore="VisualLintButtonSize" />
+
+    <Button
+        android:id="@+id/btn_move_activity_with_object"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_activity_with_object"
+        tools:ignore="VisualLintButtonSize" />
 
 </LinearLayout>

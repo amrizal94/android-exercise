@@ -29,4 +29,11 @@
         android:text="@string/move_activity_with_object"
         tools:ignore="VisualLintButtonSize" />
 
+    <Button
+        android:id="@+id/btn_dial_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dial_number"
+        tools:ignore="VisualLintButtonSize" />
+
 </LinearLayout>

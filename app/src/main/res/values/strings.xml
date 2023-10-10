@@ -6,4 +6,5 @@
     <string name="data_received">Data Received</string>
     <string name="move_activity_with_object">Pindah Activity With Object</string>
     <string name="object_received">Object Received</string>
+    <string name="dial_number">Dial Number</string>
 </resources>
